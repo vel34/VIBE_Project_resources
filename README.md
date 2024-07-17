@@ -1,0 +1,1 @@
+The VIBE Project is designed to classify different sound events such as alarms, horns, noise, and sirens using the NRF BLE SENSE board. The project includes all necessary library files, test sounds, and the main code file (code.ino) for running the classification.
