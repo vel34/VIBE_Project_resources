@@ -1,1 +1,2 @@
-
+The Edge Impulse platform generates an Arduino library file (.zip) that includes all the necessary files and dependencies required
+to run the model. The library is integrated with the main .ino and provides functions to initialize the model, process incoming data, and perform inference. 
