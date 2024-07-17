@@ -2,6 +2,7 @@ The VIBE Project is designed to classify different sound events such as alarms, 
 
 Project Structure
 
+
 VIBE-Project_resources/
 ├── Trained model libraries/           # Required libraries for the project
 ├── sounds for testing/              # Sound files for testing
